@@ -9,7 +9,7 @@ ha dut(a,b,sum,co);
 
 initial begin
 $dumpvars(1);
-$dumpfile("wave.vcd");
+$dumpfile("wave.vcd"); //value change dump
 end
 
 initial
