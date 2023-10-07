@@ -3,3 +3,4 @@
 
 Graphviz Preview
 <br/> WaveTrace
+<br/> Native SVG Preview
